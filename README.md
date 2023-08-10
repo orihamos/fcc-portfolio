@@ -8,4 +8,4 @@ I am a passionate learner and aspiring web developer. I created this portfolio t
 
 ## Contact
 
-Feel free to reach out to me via email at [Email](julioarrud@gmail.com).
+Feel free to reach out to me via email at <julioarrud@gmail.com>
