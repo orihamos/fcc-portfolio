@@ -1,0 +1,14 @@
+@media (max-width: 28.75em) {
+  html {
+    font-size: 55%;
+  }
+}
+
+.welcome-section {
+  height: 100%vw;
+}
+
+.navbar {
+  position: fixed;
+  top: 0;
+}
